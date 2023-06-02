@@ -1,5 +1,5 @@
 # MLP_Perceptron
-To implement the internal workings of perceptron and testing the accuracy of in train and test dataset. (Code from scratch)
+To implement the internal workings of perceptron and testing the accuracy of in train and test dataset. 
 #### A Perceptron 
 The perceptron model is a general computational. 
 It takes an input, aggregates it (weighted sum) and returns 1 only if the aggregated sum is more than some threshold else returns 0.
